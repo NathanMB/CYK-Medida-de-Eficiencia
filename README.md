@@ -5,7 +5,7 @@ O código foi desenvolvido na linguagem de programação chamada Lua. Para execu
 
 # **Funcionamento do Algoritmo**
 
-O algoritmo de CYK (Cocke-Younger-Kasami ) considera cada árvore possível da sequência de palavras e conjuntos que foi passada. Após avaliar as árvores de tamanho 1, avalia as de tamanho 2, e assim sucessivamente. Para as de tamanho 2 ou maior, é considerado cada possível partição dela mesma, assim ela é dividia em duas partes:
+O algoritmo de CYK (Cocke Younger Kasami) considera cada árvore possível da sequência de palavras e conjuntos que foi passada. Após avaliar as árvores de tamanho 1, avalia as de tamanho 2, e assim sucessivamente. Para as de tamanho 2 ou maior, é considerado cada possível partição dela mesma, assim ela é dividia em duas partes:
   - Sendo Y coincidindo com a primeira parte;
   - Z coincidindo com a segunda parte;
 
