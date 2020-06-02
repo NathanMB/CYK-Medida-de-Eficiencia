@@ -1,7 +1,7 @@
 # **CYK Medida de Eficiência**
 # **Execução do Algoritmo**
 
-O código foi desenvolvido na linguagem de programação chamada Lua. Para executar o código não há necessidade de instalação em máquina, ao acessar o link [Lua Online](https://repl.it/languages/lua) será redirecionado a uma IDE Online. Na barra lateral esquerda da IDE (Files) será necessário adicionar dois arquivos. O primeiro com o nome "main.lua" e o segundo com o nome "CYK.lua", após isso será necessário copiar os respectivos códigos para ambos os arquivos. Clicanco no botão verde, com o símbolo de Play, o código irá ser executado e mostrado o resultado no console ao lado direito.
+O código foi desenvolvido na linguagem de programação chamada Lua. Para executar o código não há necessidade de instalação em máquina, ao acessar o link [Lua Online](https://repl.it/languages/lua) será redirecionado a uma IDE Online. Na barra lateral esquerda da IDE (Files) será necessário adicionar dois arquivos. O primeiro com o nome "main.lua" e o segundo com o nome "CYK.lua", após isso será necessário copiar os respectivos códigos para ambos os arquivos. Clicanco no botão verde, com o símbolo de Play, o código irá ser executado e mostrado o resultado no console ao lado direito. A gramática e a palavra lida são colocadas no próprio Main do arquivo, como demonstra a imagem abaixo:
 
 # **Funcionamento do Algoritmo**
 
