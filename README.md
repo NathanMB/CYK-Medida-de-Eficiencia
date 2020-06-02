@@ -3,6 +3,8 @@
 
 O código foi desenvolvido na linguagem de programação chamada Lua. Para executar o código não há necessidade de instalação em máquina, ao acessar o link [Lua Online](https://repl.it/languages/lua) será redirecionado a uma IDE Online. Na barra lateral esquerda da IDE (Files) será necessário adicionar dois arquivos. O primeiro com o nome "main.lua" e o segundo com o nome "CYK.lua", após isso será necessário copiar os respectivos códigos para ambos os arquivos. Clicanco no botão verde, com o símbolo de Play, o código irá ser executado e mostrado o resultado no console ao lado direito. A gramática e a palavra lida são colocadas no próprio Main do arquivo, como demonstra a imagem abaixo:
 
+![a](https://user-images.githubusercontent.com/37597728/83466266-f306cb80-a44c-11ea-8ebf-62ddaadc6a81.png)
+
 # **Funcionamento do Algoritmo**
 
 O algoritmo de CYK (Cocke Younger Kasami) considera cada árvore possível da sequência de palavras e conjuntos que foi passada. Após avaliar as árvores de tamanho 1, avalia as de tamanho 2, e assim sucessivamente. Para as de tamanho 2 ou maior, é considerado cada possível partição dela mesma, assim ela é dividia em duas partes:
